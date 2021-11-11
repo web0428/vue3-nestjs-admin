@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+.el-main {
+  --el-main-padding: 0;
+}
+
+.el-footer {
+  --el-footer-height: auto;
+}
+
+.el-header {
+  --el-header-height: auto;
+  --el-header-padding: 0;
+}
